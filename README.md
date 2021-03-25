@@ -7,12 +7,12 @@ Los planetas tienen como componente su efecto particular de textura, normal map 
 + Para la creación de los planetas se creó desde Lit Shader Graph, donde cada planeta llevo distintos pasos y distintos componentes, unos más que otros ya que cada uno cuenta con distintos grados de dificultad. En la creación de los planetas sencillos, los cuales en su mayoría son los que su totalidad es de gas. Estos planetas no necesitaron componentes extras de distintas fuentes, así que se utilizaron los shader básicos para su creación: 
   + ***Main Texture***
   + ***Normal Map***: 
-  ![](Normal Map.png)
+  ![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Normal Map.png)
   + ***Rim Light***:
-  ![](RimLight.png)
+  ![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/RimLight.png)
   + ***Y movimiento en texturas para simular el movimiento constante de planetas***:  
-  ![](RotationNormal.png)
-  ![](RotationTexture.png)
+  ![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/RotationNormal.png)
+  ![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/RotationTexture.png)
 
 + **El Main Texture**, es particularmente para cada planeta, esta representa la textura difusa principal de cada planeta, es lo que nos ayuda a darle al modelo, su textura como capa de imagen para que se adapte al modelo.
 Los normal Maps son un tipo de textura especial que nos permitió agregar detalles en las superficies como golpes/bultos/bumps, surcos, rayones a un modelo que atrapa la luz como si fuera representado por una geometría real. La Normal Map se agrega como Texture 2d para que haga complemento junto con la Textura y que nos dé una representación del modelo más realista.
@@ -35,25 +35,25 @@ Link de la nasa: https://solarsystem.nasa.gov/planets/overview/
 
 ## Preview
 + **Sol**
-![](Sol.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Sol.png)
 + **Mercurio**
-![](Mercurio.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Mercurio.png)
 + **Venus**
-![](Venus.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Venus.png)
 + **Tierra**
-![](Tierra.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Tierra.png)
 + **Marte**
-![](Marte.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Marte.png)
 + **Jupiter**
 ![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Jupiter.png)
 + **Saturno**
-![](Saturno.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Saturno.png)
 + **Urano**
-![](Urano.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Urano.png)
 + **Neptuno**
-![](Neptuno.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Neptuno.png)
 
-+ ***Video***: https://www.youtube.com/watch?v=LrEfcYgYtwk
+### Video demostrativo de nuestro proyecto: https://www.youtube.com/watch?v=LrEfcYgYtwk
 
 ## Conclusión
 Este proyecto resulto ser algo muy divertido por hacer, represento algo no tan fácil pero tampoco fue tan difícil, los conocimientos que teníamos fueron bastante aplicados en el proyecto y realmente disfrutamos realizándolo como equipo ya que fue algo que nos ayudó bastante a reforzar conocimientos y a buscar nuevas herramientas para futuros proyectos. 
