@@ -18,6 +18,6 @@ public class ChangeLookAtTarget : MonoBehaviour
 	void OnMouseDown () 
 	{
 		LookAtTarget.target = target;
-        Camera.main.fieldOfView = Mathf.Clamp(60 * target.transform.localScale.x, 1, 100);
+        Camera.main.fieldOfView = Mathf.Clamp(100 * target.transform.localScale.x, 1, 5);
 	}
 }
