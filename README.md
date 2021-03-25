@@ -26,9 +26,6 @@ Los normal maps son un tipo de textura especial que nos permitió agregar detall
 
 + Por último, en la creación del Sol, se utilizó de igual manera que en los planetas la herramienta de Shader Graph, con la implementación de los componentes extras de la herramienta de visual effects, la cual se descargó por medio del package mánager de unity, la cual nos brindó efectos de partículas, las cuales se añadieron sobre nuestro shader logrando así un efecto más realista y trabajado.
 
-+ **Video demostración**: 
-Link de la NASA: https://solarsystem.nasa.gov/planets/overview/
-
 ## Preview
 + **Sol**
 ![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Sol.png)
@@ -59,3 +56,7 @@ Este proyecto resultó ser algo muy divertido por hacer, representó algo no tan
 + Amaya Quintero César Heberto.
 + Delgadillo Bojórquez Marisela.
 + Peña Hernández Azalia.
+
+## Referencias 
++ https://solarsystem.nasa.gov/resources/686/solar-system-sizes/#:~:text=Planet%20Sizes&text=Outward%20from%20the%20Sun%2C%20the,by%20the%20dwarf%20planet%20Pluto.
++ https://solarsystem.nasa.gov/planets/overview/
