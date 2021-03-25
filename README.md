@@ -45,7 +45,7 @@ Link de la nasa: https://solarsystem.nasa.gov/planets/overview/
 + **Marte**
 ![](Marte.png)
 + **Jupiter**
-![](Jupiter.png)
+![](https://github.com/AzaliaPe/ExamenParcial2/blob/main/Assets/Preview/Jupiter.png)
 + **Saturno**
 ![](Saturno.png)
 + **Urano**
